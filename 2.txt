@@ -2,4 +2,5 @@
 
 2-1 Stage Clear
 2-2 Stage Clear
+2-3 Stage Clear
 ---------- SAVE POINT -----------

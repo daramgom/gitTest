@@ -1,1 +1,5 @@
 2.txt ---------- START -----------
+
+2-1 Stage Clear
+2-2 Stage Clear
+---------- SAVE POINT -----------
